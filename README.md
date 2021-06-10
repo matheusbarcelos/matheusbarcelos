@@ -9,4 +9,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
 </div>
