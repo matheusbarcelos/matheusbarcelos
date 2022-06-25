@@ -3,10 +3,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/gustavobarretodev/](https://www.linkedin.com/in/matheus-barcelos-552b2828/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavobarretodev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+<p align="left"></p>
 
 
  <div>
