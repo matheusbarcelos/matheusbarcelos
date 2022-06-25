@@ -14,7 +14,7 @@
 <h3 align="left">Frameworks and languages ​​that I have experience:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/rspec-original.svg" height="40" width="52"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
 
 </div>
 ###
