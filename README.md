@@ -29,10 +29,21 @@
 
 <p align="left"></p>
 
- <div>
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&custom_title=Minhas estatísticas do GitHub&username=matheusbarcelos" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=barretogustavo" height="152" alt="languages graph"  />
+</div>
+
+![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+<!--  <div>
   <a href="https://github.com/matheusbarcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbarcelos&show_icons=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbarcelos&layout=compact&theme=gotham"/>
 <div>
 
-
+ -->
