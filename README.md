@@ -38,12 +38,3 @@
 ![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
-<!--  <div>
-  <a href="https://github.com/matheusbarcelos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbarcelos&show_icons=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbarcelos&layout=compact&theme=gotham"/>
-<div>
-
- -->
