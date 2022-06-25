@@ -1,6 +1,5 @@
 <h1 align="left">Hi there, I'm Matheus Barcelos</h1>
 <p align="left">I live in Brazil, Minas Gerais<br>I am QA Test Engineer 💻</p>
-###
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
